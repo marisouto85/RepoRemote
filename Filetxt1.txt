@@ -1,3 +1,5 @@
 Creating a conflict
 Lets pull the changes
 Changes made and pushing now
+creating a second conflict 
+lets resolve it
