@@ -1,2 +1,4 @@
 Creating a conflict
 Lets pull the changes
+creating a second conflict 
+lets resolve it
